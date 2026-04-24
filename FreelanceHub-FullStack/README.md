@@ -2,6 +2,8 @@
 
 A full-stack freelance marketplace inspired by Fiverr/Upwork, built with **HTML, CSS, JavaScript** on the frontend and **Node.js + Express.js** on the backend.
 
+Author : Mahwish
+
 ---
 
 ## 📋 Project Description
