@@ -12,7 +12,7 @@ FreelanceHub allows users to browse freelance services (gigs), view detailed inf
 
 ---
 
-## ✨ Features
+## ✨ Feature
 
 ### Frontend
 - 🏠 Home Page with hero section and category browsing
