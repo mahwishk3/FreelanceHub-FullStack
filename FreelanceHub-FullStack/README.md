@@ -25,7 +25,7 @@ FreelanceHub allows users to browse freelance services (gigs), view detailed inf
 ### Backend
 - RESTful API with 7+ endpoints
 - In-memory data storage
-- Request validation and proper HTTP status codes
+- Request validation and proper HTTP status cdes
 - Global error handling middleware
 
 ---
